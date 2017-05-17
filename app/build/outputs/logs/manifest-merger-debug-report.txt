@@ -1,93 +1,93 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:3:7-27
-		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:5:7-32
-		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:6:5-51
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:6:5-51
 	android:versionCode
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:4:7-30
-		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:8:5-10:107
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\byron\.android\build-cache\8b9846224b8230748fae0944739441944e2b2fd0\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\byron\.android\build-cache\cb2138d40130c7417392d4dcb22e5f6d0758df7c\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\byron\.android\build-cache\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\byron\.android\build-cache\938d186d2d362b3cd8d86dd54018cfc995222bac\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\byron\.android\build-cache\e829c704d51a153f524b42e529f11d1d43dd1505\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\byron\.android\build-cache\bb87e8a29c1b983998bbc7633a39345e14c7c2b4\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\byron\.android\build-cache\d3a5aebd567ed9b63ef200d6f910122a668a7d9f\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\byron\.android\build-cache\589980e7e517f5207535e612beca26a300465193\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\byron\.android\build-cache\64aff7a8ccd898490d3d7ed8220bc7f4bf29fd17\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\byron\.android\build-cache\3c9e9d4c0c18dbf8e1b09956197917a0be2113af\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\byron\.android\build-cache\0611a94a1260cd1d9840fe4226fc84abe63e4c4e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\byron\.android\build-cache\c2dd8866ee05409667caa6582f4f04abdfb25130\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\byron\.android\build-cache\75d456a70a10a04c7a9461781567d071fd973ca1\output\AndroidManifest.xml:21:5-23:58
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:8:5-10:107
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP-1\.android\build-cache\b97f7f6b546d152f3205c9523d358005caf1676c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\HP-1\.android\build-cache\8110c978116fa52875c2ffcce125b504f124941d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP-1\.android\build-cache\577fae410a4f8e3eec5515dfcd04c4923ca27e85\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP-1\.android\build-cache\c8f25d14ba3710d0d122374a70e8ef8d1276f3b2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP-1\.android\build-cache\92606cb34bd4ca72fac54034638517f722926b99\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\HP-1\.android\build-cache\92bc17ab901ff40c8627c104975734749ea64f7d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\HP-1\.android\build-cache\53f254351aa6d6150952730116f5c795adf10898\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP-1\.android\build-cache\3c223840e2af217f7bb75a0d3837d6aa523cdbfb\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP-1\.android\build-cache\4a3fd440f024805ecf7b42270f87bd6d27b06765\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP-1\.android\build-cache\46ad092fe34ef358cb851c34322c7286280ddac5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP-1\.android\build-cache\50242b28222a8531182438a2210c5dbb38c94942\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP-1\.android\build-cache\cae77447cd7a6d2ebd2e68e01af3f99404e77590\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP-1\.android\build-cache\f8bcb488b311a7d7f68e44ccb3502c612d855b1e\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:8:5-10:107
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:8:5-10:107
 	android:targetSdkVersion
-		ADDED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\byron\.android\build-cache\8b9846224b8230748fae0944739441944e2b2fd0\output\AndroidManifest.xml:7:9-38
+		ADDED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP-1\.android\build-cache\b97f7f6b546d152f3205c9523d358005caf1676c\output\AndroidManifest.xml:7:9-38
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:12:5-66
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:12:5-66
 	android:name
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:12:22-64
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:12:22-64
 application
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:13:5-21:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\byron\.android\build-cache\8b9846224b8230748fae0944739441944e2b2fd0\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\byron\.android\build-cache\cb2138d40130c7417392d4dcb22e5f6d0758df7c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\byron\.android\build-cache\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\byron\.android\build-cache\938d186d2d362b3cd8d86dd54018cfc995222bac\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\byron\.android\build-cache\e829c704d51a153f524b42e529f11d1d43dd1505\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\byron\.android\build-cache\d3a5aebd567ed9b63ef200d6f910122a668a7d9f\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\byron\.android\build-cache\589980e7e517f5207535e612beca26a300465193\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\byron\.android\build-cache\64aff7a8ccd898490d3d7ed8220bc7f4bf29fd17\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\byron\.android\build-cache\3c9e9d4c0c18dbf8e1b09956197917a0be2113af\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\byron\.android\build-cache\0611a94a1260cd1d9840fe4226fc84abe63e4c4e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\byron\.android\build-cache\c2dd8866ee05409667caa6582f4f04abdfb25130\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\byron\.android\build-cache\75d456a70a10a04c7a9461781567d071fd973ca1\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:13:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP-1\.android\build-cache\b97f7f6b546d152f3205c9523d358005caf1676c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\HP-1\.android\build-cache\8110c978116fa52875c2ffcce125b504f124941d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP-1\.android\build-cache\577fae410a4f8e3eec5515dfcd04c4923ca27e85\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP-1\.android\build-cache\c8f25d14ba3710d0d122374a70e8ef8d1276f3b2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP-1\.android\build-cache\92606cb34bd4ca72fac54034638517f722926b99\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\HP-1\.android\build-cache\53f254351aa6d6150952730116f5c795adf10898\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP-1\.android\build-cache\3c223840e2af217f7bb75a0d3837d6aa523cdbfb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP-1\.android\build-cache\4a3fd440f024805ecf7b42270f87bd6d27b06765\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP-1\.android\build-cache\46ad092fe34ef358cb851c34322c7286280ddac5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP-1\.android\build-cache\50242b28222a8531182438a2210c5dbb38c94942\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP-1\.android\build-cache\cae77447cd7a6d2ebd2e68e01af3f99404e77590\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP-1\.android\build-cache\f8bcb488b311a7d7f68e44ccb3502c612d855b1e\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:13:48-80
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:13:48-80
 	android:icon
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:13:18-47
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:13:18-47
 activity#eti.domino.DominoActivity
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:14:9-19:20
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:14:9-19:20
 	android:label
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:14:19-51
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:14:19-51
 	android:name
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:14:52-81
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:14:52-81
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:15:13-18:29
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\HP-1\Desktop\DominoAndroid\app\src\main\AndroidManifest.xml:17:27-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\byron\.android\build-cache\cb2138d40130c7417392d4dcb22e5f6d0758df7c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\byron\.android\build-cache\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\byron\.android\build-cache\938d186d2d362b3cd8d86dd54018cfc995222bac\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\byron\.android\build-cache\e829c704d51a153f524b42e529f11d1d43dd1505\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\byron\.android\build-cache\bb87e8a29c1b983998bbc7633a39345e14c7c2b4\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\byron\.android\build-cache\d3a5aebd567ed9b63ef200d6f910122a668a7d9f\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\byron\.android\build-cache\589980e7e517f5207535e612beca26a300465193\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\byron\.android\build-cache\64aff7a8ccd898490d3d7ed8220bc7f4bf29fd17\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\byron\.android\build-cache\3c9e9d4c0c18dbf8e1b09956197917a0be2113af\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\byron\.android\build-cache\0611a94a1260cd1d9840fe4226fc84abe63e4c4e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\byron\.android\build-cache\c2dd8866ee05409667caa6582f4f04abdfb25130\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\byron\.android\build-cache\75d456a70a10a04c7a9461781567d071fd973ca1\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\HP-1\.android\build-cache\8110c978116fa52875c2ffcce125b504f124941d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\HP-1\.android\build-cache\577fae410a4f8e3eec5515dfcd04c4923ca27e85\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\HP-1\.android\build-cache\c8f25d14ba3710d0d122374a70e8ef8d1276f3b2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\HP-1\.android\build-cache\92606cb34bd4ca72fac54034638517f722926b99\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\HP-1\.android\build-cache\92bc17ab901ff40c8627c104975734749ea64f7d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\HP-1\.android\build-cache\53f254351aa6d6150952730116f5c795adf10898\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP-1\.android\build-cache\3c223840e2af217f7bb75a0d3837d6aa523cdbfb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP-1\.android\build-cache\4a3fd440f024805ecf7b42270f87bd6d27b06765\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP-1\.android\build-cache\46ad092fe34ef358cb851c34322c7286280ddac5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP-1\.android\build-cache\50242b28222a8531182438a2210c5dbb38c94942\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP-1\.android\build-cache\cae77447cd7a6d2ebd2e68e01af3f99404e77590\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP-1\.android\build-cache\f8bcb488b311a7d7f68e44ccb3502c612d855b1e\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\byron\.android\build-cache\cb2138d40130c7417392d4dcb22e5f6d0758df7c\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\HP-1\.android\build-cache\8110c978116fa52875c2ffcce125b504f124941d\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\byron\.android\build-cache\cb2138d40130c7417392d4dcb22e5f6d0758df7c\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\HP-1\.android\build-cache\8110c978116fa52875c2ffcce125b504f124941d\output\AndroidManifest.xml:26:9-47

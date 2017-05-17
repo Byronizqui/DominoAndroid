@@ -6,6 +6,7 @@ import android.os.SystemClock;
 import android.view.MotionEvent;
 
 public class OpenGLView extends GLSurfaceView {
+
 	DominoRenderer dominoRenderer;
 
 	public OpenGLView(Context context) {

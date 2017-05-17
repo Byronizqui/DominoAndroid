@@ -11,6 +11,7 @@ import java.io.OutputStream;
 import java.net.Socket;
 
 public class DominoActivity extends Activity {
+
     private GLSurfaceView openGLView;
 
     @Override
