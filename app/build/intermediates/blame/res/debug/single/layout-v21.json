@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\byron\\.android\\build-cache\\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\byron\\.android\\build-cache\\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\byron\\.android\\build-cache\\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\byron\\.android\\build-cache\\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
