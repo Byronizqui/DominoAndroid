@@ -720,7 +720,7 @@ public final class R {
         public static final int action_mode_bar_stub = 0x7f0c0067;
         public static final int action_mode_close_button = 0x7f0c004a;
         public static final int action_text = 0x7f0c0088;
-        public static final int actions = 0x7f0c0096;
+        public static final int actions = 0x7f0c0095;
         public static final int activity_chooser_view_content = 0x7f0c004b;
         public static final int add = 0x7f0c0026;
         public static final int alertTitle = 0x7f0c005f;
@@ -765,7 +765,7 @@ public final class R {
         public static final int home = 0x7f0c0004;
         public static final int homeAsUp = 0x7f0c001c;
         public static final int icon = 0x7f0c0050;
-        public static final int icon_group = 0x7f0c0097;
+        public static final int icon_group = 0x7f0c0096;
         public static final int ifRoom = 0x7f0c0043;
         public static final int image = 0x7f0c004d;
         public static final int info = 0x7f0c0093;
@@ -785,7 +785,7 @@ public final class R {
         public static final int never = 0x7f0c0044;
         public static final int none = 0x7f0c0017;
         public static final int normal = 0x7f0c0019;
-        public static final int notification_background = 0x7f0c0095;
+        public static final int notification_background = 0x7f0c0094;
         public static final int notification_main_column = 0x7f0c008f;
         public static final int notification_main_column_container = 0x7f0c008e;
         public static final int parallax = 0x7f0c0038;
@@ -795,7 +795,7 @@ public final class R {
         public static final int progress_horizontal = 0x7f0c0007;
         public static final int radio = 0x7f0c0064;
         public static final int right = 0x7f0c0035;
-        public static final int right_icon = 0x7f0c0094;
+        public static final int right_icon = 0x7f0c0097;
         public static final int right_side = 0x7f0c0090;
         public static final int screen = 0x7f0c0028;
         public static final int scroll = 0x7f0c0024;

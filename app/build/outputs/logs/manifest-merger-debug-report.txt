@@ -35,7 +35,11 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\byron\.android\
 	tools:overrideLibrary
 		ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:8:5-10:107
 	android:targetSdkVersion
-		ADDED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\byron\.android\build-cache\8b9846224b8230748fae0944739441944e2b2fd0\output\AndroidManifest.xml:7:9-38
+		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\byron\Desktop\MapDemo\domino\app\src\main\AndroidManifest.xml:12:5-66
 	android:name

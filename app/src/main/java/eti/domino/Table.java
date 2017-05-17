@@ -102,6 +102,7 @@ public class Table {
 			// We have to draw, so get a random piece and see if the player
 			// needs another one.
 			getRandomPieceForHuman();
+
 		}
 	}
 	

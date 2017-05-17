@@ -32,16 +32,16 @@
         "source": "C:\\Users\\byron\\.android\\build-cache\\34a677088ddb35d1b3b066ef89bb17000fc2f4f6\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\byron\\.android\\build-cache\\cb2138d40130c7417392d4dcb22e5f6d0758df7c\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "C:\\Users\\byron\\.android\\build-cache\\cb2138d40130c7417392d4dcb22e5f6d0758df7c\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\byron\\.android\\build-cache\\cb2138d40130c7417392d4dcb22e5f6d0758df7c\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",

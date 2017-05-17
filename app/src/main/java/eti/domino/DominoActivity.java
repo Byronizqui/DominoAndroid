@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.opengl.GLSurfaceView;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.widget.Toast;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -16,12 +17,12 @@ public class DominoActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        openGLView = new OpenGLView(this);
-        setContentView(openGLView);
         new MyAsyncTask().execute(
                 "192.168.0.10",
                 "10578",
                 "Some");
+        openGLView = new OpenGLView(this);
+        setContentView(openGLView);
     }
     
     @Override
