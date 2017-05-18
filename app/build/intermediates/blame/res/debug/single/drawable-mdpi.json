@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
-        "source": "C:\\Users\\byron\\Desktop\\MapDemo\\domino\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "C:\\Users\\Totto\\Desktop\\DominoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\Totto\\Desktop\\DominoAndroid\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\byron\\Documents\\DominoAndroid\\DominoAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\byron\\Documents\\DominoAndroid\\DominoAndroid\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     }
 ]

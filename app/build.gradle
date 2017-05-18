@@ -6,8 +6,6 @@ android {
 
     defaultConfig {
         applicationId "eti.domino"
-        minSdkVersion 25
-        targetSdkVersion 25
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_5
             targetCompatibility JavaVersion.VERSION_1_5
